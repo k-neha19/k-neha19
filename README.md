@@ -6,31 +6,37 @@
 ---
 
 ## 👩‍💻 About Me  
-👋 Hi there! I’m **K Neha**, a passionate developer and tech enthusiast on a mission to build impactful, real-world solutions!  
-🚀 **Java Full Stack Developer | DevOps & Cloud Learner**  
-🎓 Currently exploring and mastering modern DevOps tools like **CI/CD, Jenkins, Maven, Ansible, Terraform, Docker**, and cloud concepts to automate development and deployment workflows.  
-⚡ I love exploring tools that improve performance and developer workflow  
+
+Hey there! I'm **K Neha** — a passionate problem-solver who loves turning ideas into working systems!  
+I enjoy building applications with **Java & Spring Boot** and powering them with the strength of **DevOps automation**.
+
+💫 With hands-on experience in **CI/CD pipelines, Jenkins, Maven, Ansible, Terraform, Docker**, and cloud basics,  
+I love creating smooth, automated, and production-ready solutions.
+
+I’m driven by curiosity, creativity, and the thrill of watching code go from  
+➡️ *development* → *build* → *deployment* → *production* 🚀  
+all through automated pipelines!
+
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 💻 **Programming & Backend**
+### 💻 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js" />
 </p>
 
-### 🐳 **DevOps & Cloud**
+### 🐳 DevOps, Cloud & Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,ansible,aws" />
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,ansible,terraform,linux,git,github,aws" />
 </p>
 
-### 🗄️ **Databases & Others**
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -41,12 +47,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
----
 
 ## 🔗 Connect With Me
 
@@ -57,10 +58,7 @@
 
 ---
 
-## ✨ Fun Quote  
-> “Code, Deploy, Automate — Repeat.”
 
----
 
 ### 🌟 Thank you for visiting my profile!  
 ⭐ **Feel free to connect, collaborate, or star my projects!**  
