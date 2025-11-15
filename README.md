@@ -10,7 +10,7 @@
 Hey there! I'm **K Neha** — a passionate problem-solver who loves turning ideas into working systems!  
 I enjoy building applications with **Java & Spring Boot** and powering them with the strength of **DevOps automation**.
 
-💫 With hands-on experience in **CI/CD pipelines, Jenkins, Maven, Ansible, Terraform, Docker**, and cloud basics,  
+💫 With hands-on experience in **CI/CD pipelines, Jenkins, Maven, Ansible, Terraform, Docker**, and cloud.
 I love creating smooth, automated, and production-ready solutions.
 
 I’m driven by curiosity, creativity, and the thrill of watching code go from  
