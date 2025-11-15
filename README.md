@@ -68,12 +68,14 @@ all through automated pipelines!
 ## 🔗 Connect With Me
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/k-neha19" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/k-neha19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
-
 
 
 ### 🌟 Thank you for visiting my profile!  
