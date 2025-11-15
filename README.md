@@ -5,12 +5,11 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🔭 Currently working on **Java, Spring Boot, Docker, CI/CD pipelines**  
-- 🌱 Learning **Kubernetes, AWS, Ansible, Terraform**  
-- 💡 Passionate about **automation, backend engineering, and deployment pipelines**  
-- 🎯 Goal: Become a **Cloud-ready DevOps Engineer & Full Stack Pro**  
-- ⚡ I love exploring tools that improve performance and developer workflow  
+## 👩‍💻 About Me  
+👋 Hi there! I’m **K Neha**, a passionate developer and tech enthusiast on a mission to build impactful, real-world solutions!  
+🚀 **Java Full Stack Developer | DevOps & Cloud Learner**  
+🎓 Currently exploring and mastering modern DevOps tools like **CI/CD, Jenkins, Maven, Ansible, Terraform, Docker**, and cloud concepts to automate development and deployment workflows.  
+⚡ I love exploring tools that improve performance and developer workflow  
 
 ---
 
